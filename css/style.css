@@ -445,7 +445,7 @@ footer span {
 
     .superior .supder img {
         padding: -52px 76px 97px 349px;
-        width: 442px;
+        width: 416px;
         height: 529px;
 
     }
@@ -457,12 +457,12 @@ footer span {
 
     .medio {
         width: 100%;
-        height: 74vh;
+        height: 87vh;
         justify-content: center;
     }
 
     .abajo {
-        height: 244vh;
+        height: 253vh;
         width: 100%;
     }
 
@@ -484,7 +484,7 @@ footer span {
     }
 
     .abajo .titulo3 h1 {
-        height: 193px;
+        height: 217px;
     }
 
     footer {
@@ -498,6 +498,10 @@ footer span {
 
     .superior .supizq p {
         width: 100%;
+        box-sizing: border-box;
+    }
+    nav button{
+        margin-left: 160px;
     }
 
 
