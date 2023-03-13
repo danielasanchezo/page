@@ -441,6 +441,7 @@ footer span {
         height: 46vh;
         justify-content: flex-start;
         align-items: flex-start;
+        padding-left: 46px;
     }
 
     .superior .supder img {
@@ -477,10 +478,10 @@ footer span {
     }
 
     .computer {
-        width: 218px;
+        width: 365px;
         height: 140px;
         align-items: flex-start;
-        padding-left: 60px;
+        padding-left: 138px;
     }
 
     .abajo .titulo3 h1 {
@@ -504,5 +505,15 @@ footer span {
         margin-left: 160px;
     }
 
+    a {
+        margin-left: 23px;
+    }
 
-}
+    nav button {
+        margin-left: -5px;
+        height: 38px;
+    }
+    #contenedor-centro{
+        display: block;
+    }
+    }
